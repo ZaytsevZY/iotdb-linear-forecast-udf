@@ -1,0 +1,36 @@
+
+大作业说明
+◼ 关注时间序列数据挖掘任务，并在IoTDB函数库中作为算子实现
+11
+◼ 预测任务: to forecast a number 
+of upcoming datapoints within a 
+prediction window
+◼ 分类/聚类任务: to find the most homogeneous 
+clusters that are as distinct as possible from 
+other clusters, supervised or unsupervised
+Philippe Esling, Carlos Agón: Time-series data mining. ACM Comput. Surv. 45(1): 12:1-12:34 (2012)
+大作业说明
+12
+◼ 异常检测任务: to find abnormal 
+points/ subsequences in a series
+◼ 模式发现任务: to find every subsequence 
+(named motif) that appears recurrently 
+in a longer time series
+Philippe Esling, Carlos Agón: Time-series data mining. ACM Comput. Surv. 45(1): 12:1-12:34 (2012)
+◼ 关注时间序列数据挖掘任务，并在IoTDB函数库中作为算子实现
+大作业说明
+◼ IoTDB函数库参考
+• 开发文档 (https://iotdb.apache.org/zh/UserGuide/latest/User-Manual/UDF-development.html)
+• 代码 (https://github.com/apache/iotdb/tree/master/library-udf)
+• 现有函数库算子 (https://iotdb.apache.org/zh/UserGuide/latest/SQL-Manual/UDF-Libraries_apache.html)
+◼ 开源数据集参考
+ 预测任务
+• Time Series Library Dataset (https://drive.google.com/drive/folders/1vE0ONyqPlym2JaaAoEe0XNDR8FS_d322)
+ 分类/聚类任务
+• UCR Time Series Classification Archive (https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/)
+ 异常检测任务
+• Time Series Library Dataset (https://drive.google.com/drive/folders/1KOQvV2nR6Y9tIkB4XELHA1CaV1F8LrZ6)
+ 模式发现任务
+• Time Series Library Dataset (https://drive.google.com/drive/folders/1vE0ONyqPlym2JaaAoEe0XNDR8FS_d322)
+13 Haixu Wu, et al: TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis. ICLR 2023
+Dau, Hoang Anh, et al: The UCR time series archive. IEEE/CAA Journal of Automatica Sinica 6.6 (2019): 1293-1305
