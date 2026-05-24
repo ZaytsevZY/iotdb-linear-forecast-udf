@@ -1,0 +1,16 @@
+org/apache/iotdb/slidingWindowLR/core/RegressionResult.class
+org/apache/iotdb/slidingWindowLR/core/TrendPredictor$PredictionResult.class
+org/apache/iotdb/slidingWindowLR/core/ApproxMath.class
+org/apache/iotdb/slidingWindowLR/core/OutlierFilter.class
+org/apache/iotdb/slidingWindowLR/core/PredictorConfig$Builder.class
+org/apache/iotdb/slidingWindowLR/core/MovingAveragePredictor.class
+org/apache/iotdb/slidingWindowLR/core/TrendPredictor.class
+org/apache/iotdb/slidingWindowLR/core/PredictorConfig.class
+org/apache/iotdb/slidingWindowLR/core/LinearRegression$IncrementalStats$Entry.class
+org/apache/iotdb/udf/UDTFSlidingWindowLinearRegression$1.class
+org/apache/iotdb/slidingWindowLR/core/MovingAveragePredictor$PredictionResult.class
+org/apache/iotdb/slidingWindowLR/core/LinearRegression.class
+org/apache/iotdb/slidingWindowLR/core/LinearRegression$IncrementalStats.class
+org/apache/iotdb/slidingWindowLR/core/SlidingWindow.class
+org/apache/iotdb/slidingWindowLR/core/OutputMode.class
+org/apache/iotdb/udf/UDTFSlidingWindowLinearRegression.class

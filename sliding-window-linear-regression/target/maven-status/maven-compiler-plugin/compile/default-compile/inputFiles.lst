@@ -1,0 +1,10 @@
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/main/java/org/apache/iotdb/slidingWindowLR/core/ApproxMath.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/main/java/org/apache/iotdb/slidingWindowLR/core/LinearRegression.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/main/java/org/apache/iotdb/slidingWindowLR/core/MovingAveragePredictor.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/main/java/org/apache/iotdb/slidingWindowLR/core/OutlierFilter.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/main/java/org/apache/iotdb/slidingWindowLR/core/OutputMode.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/main/java/org/apache/iotdb/slidingWindowLR/core/PredictorConfig.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/main/java/org/apache/iotdb/slidingWindowLR/core/RegressionResult.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/main/java/org/apache/iotdb/slidingWindowLR/core/SlidingWindow.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/main/java/org/apache/iotdb/slidingWindowLR/core/TrendPredictor.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/main/java/org/apache/iotdb/udf/UDTFSlidingWindowLinearRegression.java

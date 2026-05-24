@@ -1,0 +1,7 @@
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/test/java/org/apache/iotdb/slidingWindowLR/core/ComparisonExperimentTest.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/test/java/org/apache/iotdb/slidingWindowLR/core/ConfidenceIntervalTest.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/test/java/org/apache/iotdb/slidingWindowLR/core/LinearRegressionTest.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/test/java/org/apache/iotdb/slidingWindowLR/core/MovingAveragePredictorTest.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/test/java/org/apache/iotdb/slidingWindowLR/core/OutlierFilterTest.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/test/java/org/apache/iotdb/slidingWindowLR/core/SlidingWindowTest.java
+/Users/zhayi/University/大四下/数据仓库与数据挖掘/大作业/sliding-window-linear-regression/src/test/java/org/apache/iotdb/slidingWindowLR/core/TrendPredictorTest.java

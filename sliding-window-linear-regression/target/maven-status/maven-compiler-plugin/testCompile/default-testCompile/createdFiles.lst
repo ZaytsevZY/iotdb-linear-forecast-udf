@@ -1,0 +1,7 @@
+org/apache/iotdb/slidingWindowLR/core/LinearRegressionTest.class
+org/apache/iotdb/slidingWindowLR/core/ComparisonExperimentTest.class
+org/apache/iotdb/slidingWindowLR/core/ConfidenceIntervalTest.class
+org/apache/iotdb/slidingWindowLR/core/TrendPredictorTest.class
+org/apache/iotdb/slidingWindowLR/core/SlidingWindowTest.class
+org/apache/iotdb/slidingWindowLR/core/MovingAveragePredictorTest.class
+org/apache/iotdb/slidingWindowLR/core/OutlierFilterTest.class
